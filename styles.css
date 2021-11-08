@@ -1,0 +1,31 @@
+/* * {
+  font-family: 'Press Start 2P', cursive;
+  background: #202124
+} */
+
+body {
+  margin: 0;
+  background-color: black;
+}
+
+#root {
+  padding: 3rem;
+  text-align: center;
+}
+
+#root h1 {
+  font-family: 'Press Start 2P', cursive;
+  color: white;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+#root canvas {
+  display: block;
+  margin: 0 auto;
+}
+/* 
+span {
+  display: block;
+} */
