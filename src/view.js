@@ -1,6 +1,6 @@
 export default class View {
   static color = {
-    '1': 'blue',
+    '1': 'purple',
     '2': 'tomato',
     '3': 'orange',
     '4': 'pink',
